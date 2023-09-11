@@ -1,1 +1,2 @@
-This project is part of Epsilon Ai data science diploma @[EPSILON-AI]
+This project is part of Epsilon Ai data science diploma @EPSILON-AI
+
